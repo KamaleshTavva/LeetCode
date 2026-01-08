@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KamaleshTavva/LeetCode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/KamaleshTavva/LeetCode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/KamaleshTavva/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -14,9 +15,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KamaleshTavva/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/KamaleshTavva/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/KamaleshTavva/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/KamaleshTavva/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
